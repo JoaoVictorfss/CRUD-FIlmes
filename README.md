@@ -5,6 +5,8 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-star)
 
+:small_blue_diamond: [Funcionalidades](#funcionalidades-checkered_flag)
+
 :small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação-dash)
 
 :small_blue_diamond: [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -20,6 +22,14 @@
 ## Layout da Aplicação :dash:
 
 <a href="https://drive.google.com/file/d/1I6M3t0hzd185M0n_WVagXXYPjtrQKw-G/view?usp=sharing"> Link para ver o video da executação do projeto </a>
+
+
+## Funcionalidades :checkered_flag:
+- [X] Adicionar Filme
+- [X] Remover Filme
+- [X] AtualizarFilme
+- [X] Mostrar Filme
+- [X] Mostrar Filmes
 
 ## Ferramentas utilizadas
   - Angular
