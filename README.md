@@ -19,7 +19,7 @@
 
 ## Layout da Aplicação :dash:
 
-https://github.com/JoaoVictorfss/CRUD-FIlmes/blob/master/Github/Layout/20201111_104146.gif
+<a hrf="https://drive.google.com/file/d/1I6M3t0hzd185M0n_WVagXXYPjtrQKw-G/view?usp=sharing"> Link para ver o video da executação do projeto </a>
 
 ## Ferramentas utilizadas
   - Angular
