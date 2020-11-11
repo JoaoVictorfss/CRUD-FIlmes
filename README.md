@@ -19,7 +19,7 @@
 
 ## Layout da Aplicação :dash:
 
-![CRUD-FILMES](https://github.com/JoaoVictorfss/CRUD-FIlmes/blob/master/Github/Layout/20201111_104146.gif)
+https://github.com/JoaoVictorfss/CRUD-FIlmes/blob/master/Github/Layout/20201111_104146.gif
 
 ## Ferramentas utilizadas
   - Angular
