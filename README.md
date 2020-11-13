@@ -19,7 +19,7 @@
 </p>
 
 
-## Layout da Aplicação :dash:
+## Layout da Aplicação 🎨 
 
 <a href="https://drive.google.com/file/d/1I6M3t0hzd185M0n_WVagXXYPjtrQKw-G/view?usp=sharing"> Link para ver o video da executação do projeto </a>
 
