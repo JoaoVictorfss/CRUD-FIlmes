@@ -27,7 +27,7 @@
 ## Funcionalidades :checkered_flag:
 - [X] Adicionar Filme
 - [X] Remover Filme
-- [X] AtualizarFilme
+- [X] Atualizar Filme
 - [X] Mostrar Filme
 - [X] Mostrar Filmes
 
