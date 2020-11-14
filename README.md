@@ -15,7 +15,7 @@
 
 ## Descrição do Projeto :star:
 <p align="justify"> 
-  Projeto desenvolvido ao longo do curso "Técnicas avançadas em Angular 8" ministrada pelo  Renan Rafael no Bootcamp Everis Fullstack Developer. Nele foi abordo sobre a biblioteca RxJs e sobre o Angular Material.
+  Projeto desenvolvido ao longo do curso "Técnicas avançadas em Angular 8" ministrada pelo  Renan Rafael no Bootcamp Everis Fullstack Developer. Nele foi abordado sobre a biblioteca RxJs e sobre o Angular Material.
 </p>
 
 
